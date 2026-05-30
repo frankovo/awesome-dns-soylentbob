@@ -247,6 +247,7 @@
 * [Dig web interface - online dns lookup tool](https://www.digwebinterface.com/)
 * [Nameserver Predelegation Check Webinterface](https://www.denic.de/service/tools/nast/)
 * [DNS Toys](https://www.dns.toys/)
+* [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation and full timing breakdown.
 
 # Papers/Publications
 
